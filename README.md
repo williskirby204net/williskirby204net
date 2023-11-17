@@ -1,3 +1,2 @@
 ### Hi there 👋
-Snake Game is coming soon. 
-please wait..............
+Snake Game is here.
